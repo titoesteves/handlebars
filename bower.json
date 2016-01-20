@@ -1,0 +1,23 @@
+{
+  "name": "handlebars",
+  "homepage": "https://github.com/titoesteves/handlebars",
+  "authors": [
+    "Tito Esteves <titoesteves@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "v3.0.3",
+    "jquery": "~2.2.0",
+    "material-design-lite": "~1.0.6"
+  }
+}
